@@ -1,0 +1,12 @@
+name: hera
+title: Hera
+username:
+account: scad
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 263529
+bundleId: 1195821
+url: https://scad.shinyapps.io/hera/
+when: 1517082204.49229
+asMultiple: FALSE
+asStatic: FALSE
